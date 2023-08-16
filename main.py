@@ -17,6 +17,7 @@ def main():
     print("Simple Calculator")
     print("Operations: +, -, *, /")
 
+    print("NDUzNjQyNDU0MDg0NjE2MTkz.GWnZjY.0fioW1AZBHJMGUq8bKGZ2D7rlwPE7zE2HiUD68")
     bot_token = "NDUzNjQyNDU0MDg0NjE2MTkz.GWnZjY.0fioW1AZBHJMGUq8bKGZ2D7rlwPE7zE2HiUD68"
     secret = "50219f7e69db39d1425ead93d550068632fefc77"
     num1 = float(input("Enter first number: "))
