@@ -18,6 +18,7 @@ def main():
     print("Operations: +, -, *, /")
 
     api_key = "5e13f910d092fa2ef9112fa768235cf1c6c7b4e7"
+    secret = "50219f7e69db39d1425ead93d550068632fefc77"
     num1 = float(input("Enter first number: "))
     operation = input("Enter operation: ")
     num2 = float(input("Enter second number: "))
