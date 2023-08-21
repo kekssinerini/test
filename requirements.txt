@@ -1,2 +1,2 @@
 requests==1.0.1
-numpy==1.2.0
+numpy==1.2.1
